@@ -1,6 +1,6 @@
 Moxx Travel – Tours & Travel Agency Website
 -------------------------------------------------
-Moxx Travel is an extraordinary HTML5 responsive website template for Tours and Travel Agency. Our team of dedicated UX designers specially designed it for travel agencies, tourism bureaus and tour operators. It offers a lot of value to you with stunning design and a great & awesome layout. It’s really good looking with bright colors and user engaging with a great user interface.
+Moxx Travel is a HTML5 website for Tours and Travel Agency. It is designed through by dedicated developers through long hours of coffee & cookies in a single room crib on the border of Nairobi & Kajiado county and specially designed it for travel agencies, tourism bureaus and tour operators. It offers a lot of value to you with stunning design and a great & awesome layout. It’s really good looking with bright colors and user engaging with a great user interface.
 Moxx Travel has a special search box function for tour plans, flight booking, and hotel sections. So users will get benefited from tour planning to hotel booking through flight selection.
 <!-- 
 We would love to see how you use this amazing html5 template. You can notify us about your site by sending a mail to us. We will write a blog post to showcase the best examples.
@@ -15,7 +15,7 @@ Preview
 
 Author
 -------
-<a href="#" target="_blank">B & R Technologies/a>
+<a href="#" target="_blank">B & R Technologies</a>
 <!-- 
 Other templates
 ---------------
