@@ -288,11 +288,11 @@ html,body{
     -o-transition: 0.5s ease-in-out;
     transition: 0.5s ease-in-out;
 }
-/* .book-btn:hover{
+.book-btn:hover{
     color: #fff;
-    background: #00d8d5;
+    background: #ffffff;
     border: 1px solid #00d8d5;
-} */
+}
 
 /*book-btn*/
 
