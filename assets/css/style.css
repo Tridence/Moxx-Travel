@@ -1404,7 +1404,7 @@ html,body{
 /*single-footer-item*/
 .single-footer-item{
     font-family: 'Poppins', sans-serif;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 .single-footer-item h2{
     color:#565a5c;
@@ -1425,7 +1425,7 @@ html,body{
     /* font-weight: 600; */
     margin: 14px 0px 0; 
     padding: 10px 0 0 0;
-    width: 120px;
+    width: 200px;
     margin-right: 200px;
     margin-top: 0px;
     height: 1px;
