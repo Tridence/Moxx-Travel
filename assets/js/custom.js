@@ -63,11 +63,11 @@ $(document).ready(function(){
             max: 12000,
             values: [ 2677, 9241 ],
             slide: function( event, ui ) {
-            $( "#amount" ).val( "$" + ui.values[ 0 ] + " - $" + ui.values[ 1 ] );
+            $( "#amount" ).val( "Ksh. " + ui.values[ 0 ] + " - Ksh. " + ui.values[ 1 ] );
             }
         });
-        $( "#amount" ).val( "$" + $( "#slider-range" ).slider( "values", 0 ) +
-        " - $" + $( "#slider-range" ).slider( "values", 1 ) );
+        $( "#amount" ).val( "Ksh. " + $( "#slider-range" ).slider( "values", 0 ) +
+        " - Ksh. " + $( "#slider-range" ).slider( "values", 1 ) );
         
         
         // Quantity Buttons Shop
