@@ -1565,6 +1565,7 @@ html,body{
 
 }
 
+/*Whatsapp Float Icon*/
 .whatsApp {
     position:fixed;
 	width:60px;
@@ -1582,6 +1583,6 @@ html,body{
 .my-whatsApp {
 	margin-top:10px;
 }
-
+/*Whatsapp Float Icon*/
 
 /*========================Thank you=================*/
