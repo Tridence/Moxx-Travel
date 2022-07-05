@@ -1536,7 +1536,7 @@ html,body{
 #scroll-Top  .return-to-top {
     position: fixed;
     right: 30px;
-    bottom: 30px;
+    bottom: 100px;
     display: none;
     width: 40px;
     line-height: 40px;
@@ -1563,6 +1563,24 @@ html,body{
     color: #fff;
 	border-radius:50%;
 
+}
+
+.whatsApp {
+    position:fixed;
+	width:60px;
+	height:60px;
+	bottom:20px;
+	right:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:40px;
+	text-align:center;
+    font-size:40px;
+	box-shadow: 2px 2px 3px rgb(143, 141, 141);
+    z-index:100;
+	 }
+.my-whatsApp {
+	margin-top:10px;
 }
 
 
