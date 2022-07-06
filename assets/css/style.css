@@ -1143,7 +1143,8 @@ html,body{
     left:0;
     width: 100%;
     height: 100%;
-    background: rgba(0,216,255,.6);
+    background: rgba(43, 43, 43, 0.486);
+    /* background: rgba(0,216,255,.6); */
     z-index: -1;
 }
 
