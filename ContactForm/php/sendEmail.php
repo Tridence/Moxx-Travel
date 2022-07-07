@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$to = 'brianwanjalabarasa@gmail.com';
+$to = 'info@moxxtravels.com';
 
 function url(){
   return sprintf(
