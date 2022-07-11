@@ -1611,7 +1611,8 @@ html,body{
     color:#00d8ff;
     font-size:16px;
     margin-top:28px;
-}/*foot-icons*/
+}
+/*foot-icons*/
 
 /*===============================
          Scroll Top
@@ -1650,22 +1651,23 @@ html,body{
 }
 
 /*Whatsapp Float Icon*/
-.whatsApp {
-    position:fixed;
+.float{
+	position:fixed;
 	width:60px;
 	height:60px;
-	bottom:20px;
-	right:20px;
-	background-color:#25d366;
+	bottom:40px;
+	right:40px;
+	background-color:#09df58;
 	color:#FFF;
-	border-radius:40px;
+	border-radius:50px;
 	text-align:center;
-    font-size:40px;
-	box-shadow: 2px 2px 3px rgb(143, 141, 141);
-    z-index:100;
-	 }
-.my-whatsApp {
-	margin-top:10px;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
 }
 /*Whatsapp Float Icon*/
 
