@@ -479,62 +479,6 @@ html,body{
 	background: rgba(1, 39, 66, 0.711);
 }
 
-/*about-us-content*/
-.about-us3-content{
-	margin: -175px 0 0 0;
-}
-.about-us3 h2 {
-	color:#fff;	
-	font-size:84px;
-	text-transform: inherit;
-	max-width: 800px;
-	font-weight: 600;
-	line-height: 1.22;
-}
-.about-us3 h2 span{
-	color:#2bdab5;
-	margin-top: -11px;
-}
-.about-btn {
-    margin-top: 39px;
-    letter-spacing: 1.2px;
-     -webkit-transition: 0.5s ease-in-out;
-    -moz-transition: 0.5s ease-in-out;
-    -ms-transition: 0.5s ease-in-out;
-    -o-transition: 0.5s ease-in-out;
-    transition: 0.5s ease-in-out;
-}
-.about-view {
-	display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #00d8ff;
-    border: 1px solid #00d8ff;
-    width: 200px;
-    height: 60px;
-    white-space: nowrap;
-    color: #fff;
-    font-size:16px;
-    font-family: 'Poppins', sans-serif;
-    text-transform: uppercase;
-    border-radius: 5px;
-    box-shadow: 0 5px 20px rgba(14,15,18,.2);
-    -webkit-transition: 0.5s ease-in-out;
-    -moz-transition: 0.5s ease-in-out;
-    -ms-transition: 0.5s ease-in-out;
-    -o-transition: 0.5s ease-in-out;
-    transition: 0.5s ease-in-out;
-}
-.about-btn:hover .about-view{
-    color: #fff;
-    background: #00d8d5;
-    box-shadow: 0 5px 20px rgba(14,15,18,.7);
-	border: 1px solid #00d8d5;
-}
-.travel-mrt-0{
-    margin-top: 0px;
-}
-/*about-us-content*/
 
 /*-------------------------------------
 		4. 	Travel-box
